@@ -1,0 +1,4 @@
+{
+    "name": "Build & Push NuGet - Tag",
+    "description": "RedBranch-Software CI/CD workflow template to build, pack and push NuGet package when new tag is pushed into origin"
+}
