@@ -1,4 +1,4 @@
-name: Build & Push Nuget Package
+name: Build, Pack & Push Nuget Package
 on:
   push:
     tags:
